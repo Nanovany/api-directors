@@ -4,7 +4,7 @@ API for listing directors with their movies.
 This api is a Spring Boot application that shows a list of directors who have more movies than the parameter(threshold) given.
 
 ## Features ##
--Exposes a Rest endpoint : '/api/directors?threshold=number'
+-Exposes a Rest endpoint : 'http://localhost:[port]/api/directors?threshold=x'
 -Sort the list of directors.
 -Use of Feign client for cummunication
 -Contain unit tests for service and controller clases.
