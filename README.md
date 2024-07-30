@@ -9,6 +9,7 @@ This api is a Spring Boot application that shows a list of directors who have mo
 -Use of Feign client for cummunication
 -Contain unit tests for service and controller clases.
 -Properties file has the url https://directa24-movies.wiremockapi.cloud
+-Swagger Url: http://localhost:8080/swagger-ui/index.html
 
 ## NOTE ##
 I consumed the endpoint several times, however, time later, I got a the next message:
